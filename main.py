@@ -1,5 +1,5 @@
 
-# testing
+#This is a to do app that makes a list of tasks
 
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")
@@ -22,7 +22,7 @@ while True:
             file = open('todos.txt', 'r')
             todos = file.readlines()
             file.close()
-            
+
             for index, item in enumerate(todos):
                 row = f"{index + 1}-{item.title()}"
                 print(row)              
