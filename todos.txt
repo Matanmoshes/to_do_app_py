@@ -3,3 +3,7 @@ Write a book chapter
 Eat pasta
 sony
 make pizza
+Master Kubernetes!
+driving test
+Master python
+Fix the door
