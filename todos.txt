@@ -3,9 +3,4 @@ Eat pasta
 sony
 make pizza
 Master Kubernetes!
-driving test
-Master python
-Fuck the hamas
-Write a final chapter
-Open ticket to CS
-clean the bag.
+Learn Kubernetes
